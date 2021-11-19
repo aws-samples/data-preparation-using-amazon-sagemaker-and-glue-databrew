@@ -1,6 +1,6 @@
 ## Data Preparation using Amazon SageMaker and Glue DataBrew
 
-This project contains the code for the [Workshop](https://catalog.us-east-1.prod.workshops.aws/v2/workshops/1e224d5a-4273-444a-acec-28d44a5bfb28/en-US)
+This project contains the code for the [Workshop](https://catalog.us-east-1.prod.workshops.aws/v2/workshops/1e224d5a-4273-444a-acec-28d44a5bfb28)
 
 ### About the Workshop
 The workshop will cover various data preparation and feature engineering options available with AWS services like SageMaker Processing, Data Wrangler and Glue DataBrew to perform encoding, transformations and visualization.
